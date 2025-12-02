@@ -141,9 +141,10 @@ Assesses safety risks in **Generative AI systems**, including:
 ## 📬 Contact  
 
 **Manuel Portocarrero**  
-🌐 Remote (U.S.)  
-🔗 LinkedIn: https://www.linkedin.com/in/manuel-portocarrero/  
-✉️ Email: manuelportocarrero@gmail.com  
+🌍 Remote (U.S.)  
+🔗 **LinkedIn:** https://www.linkedin.com/in/usa-manuel-portocarrero/  
+📧 **Email:** manny.portocarrero@gmail.com  
+
 
 ---
 
